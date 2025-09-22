@@ -11,7 +11,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 **One sentence on impact:** In three days we are mapping the rate factors that separate abrupt ecosystem flips from gradual transitions so land stewards can act before thresholds are crossed.
 
-**[Sprint brief](https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/blob/main/documentation/group-notes.md) · [View shared code](https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/tree/main/code) · [Data & access](data.md)**
+**[Sprint brief](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf) · [Explore data](https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/blob/main/code/prism_quicklook.py) · [Persistent storage](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_3?type=folder&resourceId=338a47c6-8e90-11f0-b0fa-90e2ba675364)**
 
 > **About this site:** This public log captures Innovation Summit 2025 — Group 3. Edit anything in your browser: open a file → pencil icon → Commit changes.
 
@@ -145,13 +145,13 @@ Rapid detection of tipping dynamics lets watershed groups and land managers depl
 <table>
 <tr>
 <td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/blob/main/documentation/group-notes.md"><img src="assets/button_brief.gif" alt="Sprint brief and planning notes" width="240"><br><strong>Review sprint notes</strong></a>
+  <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf"><img src="assets/button_brief.gif" alt="Sprint brief PDF" width="240"><br><strong>Open sprint brief</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/tree/main/code"><img src="assets/button_code.gif" alt="Browse shared code" width="240"><br><strong>Browse code</strong></a>
+  <a href="https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/blob/main/code/prism_quicklook.py"><img src="assets/button_code.gif" alt="Explore PRISM quicklook script" width="240"><br><strong>Explore data script</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_3/"><img src="assets/button_data.gif" alt="Open Group 3 shared storage" width="240"><br><strong>Open storage</strong></a>
+  <a href="https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_3?type=folder&resourceId=338a47c6-8e90-11f0-b0fa-90e2ba675364"><img src="assets/button_data.gif" alt="Open Group 3 shared storage" width="240"><br><strong>Open storage</strong></a>
 </td>
 </tr>
 </table>
