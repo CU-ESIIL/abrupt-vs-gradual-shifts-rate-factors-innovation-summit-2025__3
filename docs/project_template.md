@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "OASIS: 3-Day Team Template"
-subtitle: "A friction-free guide for collaborative research sprints"
+title: "Abrupt vs Gradual Shifts Sprint Guide"
+subtitle: "Innovation Summit 2025 Group 3 playbook for rapid collaboration"
 hero_image: assets/template/hero.svg
 team_logo: assets/template/team-logo.svg
-contact_slack: "#oasis-project-room"
-contact_email: "team@example.org"
-repo_owner: "cu-esiil"
-repo_name: "Project_group_OASIS"
+contact_slack: "#innovation-summit-group3"
+contact_email: "innovation-summit@esiil.org"
+repo_owner: "CU-ESIIL"
+repo_name: "abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3"
 edit_path: "docs/project_template.md"
 ---
 
