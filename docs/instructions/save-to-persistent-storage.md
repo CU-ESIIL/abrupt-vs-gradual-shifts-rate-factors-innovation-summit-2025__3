@@ -24,10 +24,12 @@ curl -L -s https://github.com/cyverse/gocommands/releases/download/${GOCMD_VER}/
 i:/iplant/home/shared/esiil/Innovation_summit/<GROUP_NAME>
 ```
 
+For this repository, set `<GROUP_NAME>` to `Group_3` unless your team has been assigned a different shared folder.
+
 Set environment variables:
 ```bash
 # —— Edit these two lines ——
-GROUP_NAME="Group_1"                  # <-- change to your group
+GROUP_NAME="Group_3"                  # <-- preset for Group 3; update if your folder differs
 USERNAME="<your_cyverse_username>"    # <-- no angle brackets
 
 COMMUNITY="i:/iplant/home/shared/esiil/Innovation_summit/${GROUP_NAME}"
