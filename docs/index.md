@@ -5,11 +5,9 @@
 <!-- =========================================================
 HERO (Swap hero.jpg, title, strapline, and the three links)
 ========================================================= -->
+<img width="1024" height="375" alt="image" src="https://github.com/user-attachments/assets/096d143d-cd63-4483-b0c2-ea5ac1f00ae3" />
 
-![Conceptual illustration of ecological thresholds](assets/hero.jpg)
-[Raw photo location: hero.jpg](https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/blob/main/docs/assets/hero.jpg)
-
-**One sentence on impact:** In three days we are mapping the rate factors that separate abrupt ecosystem flips from gradual transitions so land stewards can act before thresholds are crossed.
+**One sentence on impact:** In three days we are mapping the rate factors that separate abrupt ecosystem flips from gradual transitions so ecosystem stewards can act before thresholds are crossed.
 
 **[Sprint brief](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf) · [Explore data](https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/blob/main/code/prism_quicklook.py) · [Persistent storage](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_3?type=folder&resourceId=338a47c6-8e90-11f0-b0fa-90e2ba675364)**
 
@@ -27,22 +25,37 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ## Day 1 — Define & Explore
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).* 
 
+### Bridges to group 2
+- System-specific case study illustrating regime shift types, or counterfactuals of when shift was expected but didn't occur
+- Geospatial or time series datasets, adjusting predictor variables
+
+### Potential roles
+- ESIIL working group PI, co-PIs
+
 ### Our product 📣
+- Conceptual figure containing our goals/hypotheses, leading to a perspective manuscript
+- List of terms and definitions, shared language with group #2
+- List of keyword terms for literature search (helpful in structuring meta-meta-analysis)
+- Team of teams of teams pizza^3 party
 - A threshold decision chart highlighting rate factor triggers for abrupt vs gradual responses.
 - A concise narrative brief + two figures for Innovation Summit share-out.
-- Reproducible notebooks that compare rate metrics across pilot landscapes.
 
 ### Our question(s) 📣
+- What are the properties of stress and disturbance that lead to regime shifts?
+- What are the important predictors: rate (abrupt vs. gradual), intensity/severity, frequency/recurrence, duration (pulse vs. press), spatial extent, abiotic vs. biotic drivers?
+- What are the important responses: type of tipping (noise-induced, rate-induced, bifurcation-induced), resilience (resistance + recovery), community structure and function?
+- What is our definition of tipping point, regime shift, state change, critical transition, ecological transformation, etc.?
+- What is not within scope (e.g., succession, community assembly rules)?
 - Which climatic and ecological rate factors precede abrupt state changes compared with gradual drifts?
 - Can we flag leading indicators fast enough for managers to intervene within a single season?
-- How transferable are the signals between dryland vegetation and montane snowpack systems?
+- How transferable are the signals between organisms with different life history traits?
 
-### Hypotheses / intentions 📣
+### Hypotheses / intentions 
 - We think abrupt shifts are preceded by compound rate anomalies (e.g., concurrent moisture and temperature acceleration).
 - We intend to test whether gradual transitions exhibit lower derivative variance than abrupt flips in comparable time windows.
 - We will know we’re onto something if we can classify historical events with >75% accuracy using rate-derived features alone.
 
-### Why this matters (the “upshot”) 📣
+### Why this matters (the “upshot”) 
 Rapid detection of tipping dynamics lets watershed groups and land managers deploy scarce mitigation resources before ecosystems cross points of no return. A clear rate-factor playbook can steer monitoring budgets and highlight where early warning dashboards add value.
 
 ### Inspirations (papers, datasets, tools)
@@ -61,6 +74,13 @@ Rapid detection of tipping dynamics lets watershed groups and land managers depl
 
 ## Day 2 — Data & Methods
 *Focus: what we’re testing and building; show a first visual (plot/map/screenshot/GIF).* 
+
+### Agenda 
+- Create schedule
+- Skim [Milkoreit et al. 2018](https://iopscience.iop.org/article/10.1088/1748-9326/aaaa75/meta)
+- Define key terms
+- Identify critera for inclusion in the study
+
 
 ### Data sources we’re exploring 📣
 - **LandTrendr disturbance trajectories** — Tracking vegetation change rates across western U.S. watersheds.
