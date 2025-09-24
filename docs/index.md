@@ -60,6 +60,7 @@ Rapid detection of tipping dynamics lets watershed groups and land managers depl
 
 ### Inspirations (papers, datasets, tools)
 - Publication: [Scheffer et al. 2009 — Early-warning signals for critical transitions](https://doi.org/10.1038/nature08227)
+                [Chaparro-Pedraza 2021 — Fast environmental change and ecoevolutionary feedbacks can drive regime shifts in ecosystems before tipping points are crossed](https://doi.org/10.1098/rspb.2021.1192)
 - Dataset portal: [USGS LandTrendr spectral change products](https://www.usgs.gov/landsat-missions/landtrendr)
 - Tool/tech: [PyBreakpoints — Bayesian change point detection](https://github.com/raphaelvallat/ruptures)
 
