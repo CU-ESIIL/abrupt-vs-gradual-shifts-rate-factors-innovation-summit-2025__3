@@ -36,7 +36,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 - Conceptual figure containing our goals/hypotheses, leading to a perspective manuscript
 - List of terms and definitions, shared language with group #2
 - List of keyword terms for literature search (helpful in structuring meta-meta-analysis)
-- Team of teams of teams pizzax<sup>2</sup> party
+- Team of teams of teams pizza<sup>3</sup> party
 - A threshold decision chart highlighting rate factor triggers for abrupt vs gradual responses.
 - A concise narrative brief + two figures for Innovation Summit share-out.
 
