@@ -21,7 +21,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 - Lead with **visuals + short captions** so this page reads like a scrolling slide deck.
 
 ---
-
+[Google Doc for team members](https://docs.google.com/document/d/1gFz4jffC-gq81F8ZmspVF3jo6alB7G7kY3B6xXT_osM/edit?tab=t.agdctbr4d2g2)
 ## Day 1 — Define & Explore
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).* 
 
