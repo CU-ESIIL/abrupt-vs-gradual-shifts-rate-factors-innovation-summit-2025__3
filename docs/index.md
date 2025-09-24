@@ -78,7 +78,7 @@ Rapid detection of tipping dynamics lets watershed groups and land managers depl
 ---
 
 ## Day 2 — Data & Methods
-*Focus: what we’re testing and building; show a first visual (plot/map/screenshot/GIF).* 
+*Focus: what we’re testing and building; show a first visual (plot/map/screenshot/GIF).*
 
 ### Agenda 
 - Create schedule
@@ -86,6 +86,20 @@ Rapid detection of tipping dynamics lets watershed groups and land managers depl
 - Define key terms
 - Identify critera for inclusion in the study
 
+### Data sources we’re exploring 📣
+<!-- EDIT: Link each source; add size/notes if relevant. -->
+- **Source A**
+- Source B — link and 1-line description
+  
+### Methods / technologies we’re testing 📣
+- Approach 1 (e.g., time-series break detection)
+- Approach 2 (e.g., random forest on features)
+- Visualization (e.g., map tiles, small multiples)
+
+### Challenges identified
+- Data gaps / quality issues
+- Method limitations / compute constraints
+- Open questions we need to decide on
 
 ### Data sources we’re exploring 📣
 - **LandTrendr disturbance trajectories** — Tracking vegetation change rates across western U.S. watersheds.
@@ -95,7 +109,7 @@ Rapid detection of tipping dynamics lets watershed groups and land managers depl
   *Derivative plots show where canopy loss accelerates ahead of abrupt transitions.*
 
 - **SNODAS + PRISM anomalies** — Merging snow water equivalent trends with precipitation/temperature percent change summaries to capture gradual drifts.
-
+  
 ### Methods / technologies we’re testing 📣
 - Bayesian online change-point detection on rolling derivatives.
 - Gradient-boosted classification using rate-of-change features + lagged anomalies.
@@ -110,12 +124,12 @@ Rapid detection of tipping dynamics lets watershed groups and land managers depl
 #### Static figure
 ![Prototype comparison of abrupt vs gradual rate fingerprints](assets/figure1.png)
 [Raw photo location: figure1.png](https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/blob/main/docs/assets/figure1.png)
-*Figure 1.* Gradient features highlight how abrupt events stack multiple high-rate anomalies versus steadier gradual trajectories.
+*Figure 1.* One line on what this suggests.
 
 #### Animated change (GIF)
 ![Animation of rolling derivative anomalies through time](assets/change.gif)
 [Raw photo location: change.gif](https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/blob/main/docs/assets/change.gif)
-*Figure 2.* Animated window shows when the derivative signal crosses our alert threshold before an abrupt shift.
+*Figure 2.* One line on what changes across time.
 
 #### Interactive map (iframe)
 <iframe
@@ -135,22 +149,23 @@ Rapid detection of tipping dynamics lets watershed groups and land managers depl
 [Raw photo location: team_photo.jpg](https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/blob/main/docs/assets/team_photo.jpg)
 
 ### Findings at a glance 📣
-- Abrupt vegetation state changes cluster when both moisture deficit acceleration and heat accumulation surpass the 85th percentile simultaneously.
-- Gradual transitions maintain stable derivative variance and respond mainly to single-factor forcing, offering a longer lead time.
-- Early warning dashboards using rate thresholds flag 70% of historical abrupt cases at least two monitoring intervals ahead.
+<!-- EDIT: 2–4 bullets, each a headline in plain language with a number if possible. -->
+- Headline 1 — what, where, how much
+- Headline 2 — change/trend/contrast
+- Headline 3 — implication for practice or policy
 
 ### Visuals that tell the story 📣
 ![Rate-trigger matrix summarizing abrupt vs gradual signatures](assets/fire_hull.png)
 [Raw photo location: fire_hull.png](https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/blob/main/docs/assets/fire_hull.png)
-*Visual 1.* Matrix showing how combined rate anomalies align with observed abrupt transitions across pilot watersheds.
+*Visual 1.* Swap in the primary graphic that clearly communicates your core takeaway.
 
 ![Panel comparing contrasting watershed responses](assets/hull_panels.png)
 [Raw photo location: hull_panels.png](https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/blob/main/docs/assets/hull_panels.png)
-*Visual 2.* Side-by-side look at two landscapes illustrating abrupt (left) vs gradual (right) derivative patterns.
+*Visual 2.* Use a complementary panel, collage, or set of snapshots that reinforces supporting evidence.
 
 ![Rolling derivative dashboard mock-up](assets/main_result.png)
 [Raw photo location: main_result.png](https://github.com/CU-ESIIL/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/blob/main/docs/assets/main_result.png)
-*Visual 3.* Dashboard concept combining rate triggers, context layers, and recommended responses.
+*Visual 3.* Highlight an additional visual that captures a secondary insight or next step.
 
 <iframe
   title="Short explainer video (optional)"
@@ -160,9 +175,9 @@ Rapid detection of tipping dynamics lets watershed groups and land managers depl
   allowfullscreen></iframe>
 
 ### What’s next? 📣
-- Calibrate thresholds with stakeholder-provided abrupt/gradual case inventories.
-- Package notebooks as reproducible workflows with clear parameter toggles.
-- Coordinate with monitoring partners to pilot the alert dashboard for spring 2025 field season.
+- Immediate follow-ups
+- What we would do with one more week/month
+- Who should see this next
 
 ---
 
@@ -186,10 +201,8 @@ Rapid detection of tipping dynamics lets watershed groups and land managers depl
 ## Team
 | Name | Role | Contact | GitHub |
 |------|------|---------|--------|
-| _(Add name)_ | Lead / coordination | email@example.org | @github-handle |
-| _(Add name)_ | Data wrangler | email@example.org | @github-handle |
-| _(Add name)_ | Modeling & analytics | email@example.org | @github-handle |
-| _(Add name)_ | Storytelling & design | email@example.org | @github-handle |
+| Jane Doe | Lead | jane.doe@example.org | @janedoe |
+| John Smith | Analyst | john.smith@example.org | @jsmith |
 
 ---
 
